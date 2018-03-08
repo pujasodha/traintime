@@ -1,0 +1,58 @@
+
+h1 {
+    text-align: center;
+}
+
+.jumbotron-fluid {
+    background-color: #b0460d;
+    color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#topborder {
+    background-color: #006360;
+    color: white;
+    font-family: "myfont";
+    font-size: 2.0em;
+    height: 53px;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 7px;  
+    margin-bottom: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.formCSS {
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: #632504
+}
+
+
+.border {
+    border-style: solid;
+    border-color: black;
+    border-bottom-style: white;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.btn-secondary {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.table td, .table th {
+    padding: 0;
+    vertical-align: top;
+    border-top: 0;
+}
